@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"hospitalmanagement","c":"Hospitalmanagement","l":"Hospitalmanagement()","u":"%3Cinit%3E()"},{"p":"hospitalmanagement","c":"Hospitalmanagement","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
